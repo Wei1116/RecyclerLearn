@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">恶龙与勇者</string>
+    <string name="Description" />
+    <string-array name="title_array">
+        <item>Dragon:你在说什么？我听不太懂</item>
+        <item>Dragon:我耳朵不好使</item>
+        <item>Dragon:喵？</item>
+        <item>Dragon:我数123</item>
+        <item>Hero:567</item>
+        <item>Hero:213</item>
+        <item>Hero:456</item>
+        <item>Hero:123</item>
+    </string-array>
+    <string name="first_page">
+        first
+    </string>
+    <string name="second_page">
+        second
+    </string>
+    <string-array name="download_array">
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
